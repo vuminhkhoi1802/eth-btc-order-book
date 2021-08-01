@@ -2,7 +2,6 @@
 
 - [NodeJS (version 10 and above)](https://nodejs.org/en/)
 - [Yarn 1.22.11](https://yarnpkg.com/cli/install)
-- [Click me to go to Google!](https://www.google.com)
 
 
 In the project directory, you can run the comment below to start locally:
